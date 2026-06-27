@@ -1,0 +1,6 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\pragy\Downloads\Final Circuit.net
+Start Time: Wed Jun 24 19:24:54 2026
+C:\Users\pragy\Downloads\Final Circuit.net(528): File "C:\Users\pragy\Downloads\data.txt" not found.
+V§INPUT1 N013 0 PWL file=data.txt
+                    ^^^^^^^^^^^^^
